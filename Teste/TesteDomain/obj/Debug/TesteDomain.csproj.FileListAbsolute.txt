@@ -1,0 +1,17 @@
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\bin\Debug\CadmusDomain.dll
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\bin\Debug\CadmusDomain.pdb
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\obj\Debug\TesteDomain.csproj.CoreCompileInputs.cache
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.dll
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.pdb
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\obj\Debug\TesteDomain.csprojAssemblyReference.cache
+D:\Brq\Brq\CadmusDomain\bin\Debug\CadmusDomain.dll
+D:\Brq\Brq\CadmusDomain\bin\Debug\CadmusDomain.pdb
+D:\Brq\Brq\CadmusDomain\obj\Debug\TesteDomain.csproj.CoreCompileInputs.cache
+D:\Brq\Brq\CadmusDomain\obj\Debug\CadmusDomain.dll
+D:\Brq\Brq\CadmusDomain\obj\Debug\CadmusDomain.pdb
+C:\Users\Diogo\source\repos\Teste\TesteDomain\bin\Debug\CadmusDomain.dll
+C:\Users\Diogo\source\repos\Teste\TesteDomain\bin\Debug\CadmusDomain.pdb
+C:\Users\Diogo\source\repos\Teste\TesteDomain\obj\Debug\TesteDomain.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\Teste\TesteDomain\obj\Debug\CadmusDomain.dll
+C:\Users\Diogo\source\repos\Teste\TesteDomain\obj\Debug\CadmusDomain.pdb
+C:\Users\Diogo\source\repos\Teste\TesteDomain\obj\Debug\TesteDomain.csprojAssemblyReference.cache

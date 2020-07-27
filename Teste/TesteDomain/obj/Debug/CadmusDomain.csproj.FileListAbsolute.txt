@@ -1,0 +1,11 @@
+C:\Workspace\Cadmus\CadmusDomain\bin\Debug\CadmusDomain.dll
+C:\Workspace\Cadmus\CadmusDomain\bin\Debug\CadmusDomain.pdb
+C:\Workspace\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.csproj.CoreCompileInputs.cache
+C:\Workspace\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.dll
+C:\Workspace\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.pdb
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\bin\Debug\CadmusDomain.dll
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\bin\Debug\CadmusDomain.pdb
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.csprojAssemblyReference.cache
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.csproj.CoreCompileInputs.cache
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.dll
+D:\visualstudio\Cadmus-master\Cadmus\CadmusDomain\obj\Debug\CadmusDomain.pdb

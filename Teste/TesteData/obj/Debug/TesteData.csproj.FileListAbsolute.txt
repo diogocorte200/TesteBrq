@@ -1,0 +1,14 @@
+C:\Users\Diogo\source\repos\Teste\TesteData\bin\Debug\CadmusData.dll.config
+C:\Users\Diogo\source\repos\Teste\TesteData\bin\Debug\CadmusData.dll
+C:\Users\Diogo\source\repos\Teste\TesteData\bin\Debug\CadmusData.pdb
+C:\Users\Diogo\source\repos\Teste\TesteData\bin\Debug\CadmusDomain.dll
+C:\Users\Diogo\source\repos\Teste\TesteData\bin\Debug\EntityFramework.dll
+C:\Users\Diogo\source\repos\Teste\TesteData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diogo\source\repos\Teste\TesteData\bin\Debug\CadmusDomain.pdb
+C:\Users\Diogo\source\repos\Teste\TesteData\bin\Debug\EntityFramework.xml
+C:\Users\Diogo\source\repos\Teste\TesteData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diogo\source\repos\Teste\TesteData\obj\Debug\TesteData.csprojAssemblyReference.cache
+C:\Users\Diogo\source\repos\Teste\TesteData\obj\Debug\TesteData.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\Teste\TesteData\obj\Debug\TesteData.csproj.CopyComplete
+C:\Users\Diogo\source\repos\Teste\TesteData\obj\Debug\CadmusData.dll
+C:\Users\Diogo\source\repos\Teste\TesteData\obj\Debug\CadmusData.pdb
