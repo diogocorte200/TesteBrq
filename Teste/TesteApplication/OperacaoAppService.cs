@@ -20,32 +20,46 @@ namespace TesteApplication
         }
         public List<TraderResponse> IndentificarCategoriaTrader(List<Trader> trader)
         {
-            var lista = new TraderResponse();
-            var result = new List<TraderResponse>();
+            return Regra(trader);
 
+        }
+
+        private List<TraderResponse> Regra(List<Trader> trader)
+        {
             if (trader != null)
             {
-                foreach (var item in trader)
+                var lista = new TraderResponse();
+                var result = new List<TraderResponse>();
+
+                if (trader != null)
                 {
-                    if (item.ClientSector == "Público" && item.Valor < 1000000)
+                    foreach (var item in trader)
                     {
-                        lista.ClientSector = "LOWRISK";
+                        if (item.ClientSector == "Público" && item.Valor < 1000000)
+                        {
+                            lista.ClientSector = "LOWRISK";
+                        }
+                        if (item.ClientSector == "Público" && item.Valor > 1000000)
+                        {
+                            lista.ClientSector = "MEDIUMRISK";
+                        }
+                        if (item.ClientSector == "Privado" && item.Valor > 1000000)
+                        {
+                            lista.ClientSector = "HIGHRISK";
+                        }
+                        result.Add(new TraderResponse
+                        {
+                            ClientSector = lista.ClientSector
+                        });
                     }
-                    if (item.ClientSector == "Público" && item.Valor > 1000000)
-                    {
-                        lista.ClientSector = "MEDIUMRISK";
-                    }
-                    if (item.ClientSector == "Privado" && item.Valor > 1000000)
-                    {
-                        lista.ClientSector = "HIGHRISK";
-                    }
-                    result.Add(new TraderResponse
-                    {
-                        ClientSector = lista.ClientSector
-                    });
                 }
+                return result;
             }
-            return result;
+            else
+            {
+                return new List<TraderResponse>();
+            }
+
         }
     }
 }
